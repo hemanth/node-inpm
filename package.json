@@ -1,6 +1,6 @@
 {
   "name": "inpm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Checks if the given module name is present in npm registry.",
   "main": "index.js",
   "scripts": {
