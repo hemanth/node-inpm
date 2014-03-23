@@ -1,0 +1,31 @@
+{
+  "name": "inpm",
+  "version": "0.0.0",
+  "description": "Checks if the given module name is present in npm registry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemanth/node-inpm"
+  },
+  "keywords": [
+    "npm",
+    "registry",
+    "check",
+    "module"
+  ],
+  "author": "Hemanth.HM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hemanth/node-inpm/issues"
+  },
+  "homepage": "https://github.com/hemanth/node-inpm",
+  "dependencies": {
+    "superagent": "^0.17.0"
+  },
+  "devDependencies": {
+    "tap": "^0.4.8"
+  }
+}
